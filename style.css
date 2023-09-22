@@ -272,7 +272,7 @@ button:hover {
 
 
 }
-
+/* pour imprimer sans le bouton*/
 @media print { 
   
     print-area   *{   
